@@ -1,4 +1,8 @@
 @media (max-width: 400px) {
+header {
+position: absolute;
+top: -25px;
+}
 header .logo_name
 {
 position: absolute;
