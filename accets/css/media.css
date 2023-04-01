@@ -16,6 +16,11 @@ line-height: 38px;
 
 color: #FFFFFF;
 }
+  .element::-webkit-scrollbar {
+    -webkit-appearance: none;
+    width: 0;
+    height: 0;
+}
 .menu_box {
 left: 105px;
 top: 43px;
@@ -215,6 +220,7 @@ width: 90%;
 .content_name h1
 {
 font-size: 30px;
+width: 90%;
 }
 .content_movie
 {
