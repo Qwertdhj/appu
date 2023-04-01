@@ -30,6 +30,10 @@ top: 43px;
 width: 15px;
 height: 3px;
 }
+.content_movie:hover
+{
+transform: scale(1);
+}
 .menu_box .line_button::before
 {
 width: 22px;
